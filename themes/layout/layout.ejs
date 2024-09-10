@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title><%= config.title %></title>
+  <link rel="stylesheet" href="/css/custom.css"> <!-- 引用自定义CSS -->
+</head>
+<body>
+
+  <!-- 背景视频 -->
+  <video class="background-video" autoplay muted loop>
+    <source src="/background/dongxuelian.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+
+  <!-- 网站主要内容 -->
+  <%- body %>
+
+</body>
+</html>
