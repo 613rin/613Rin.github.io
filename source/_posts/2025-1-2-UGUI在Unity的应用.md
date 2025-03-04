@@ -4,7 +4,7 @@ date: 2025-03-09 10:00
 update: 2025-03-09 11:00
 cover: https://pic-bed-5pz.pages.dev/img/14.jpg
 description: 深入探讨 UGUI 在 Unity 项目中的实际应用
-swiper_index: 3 #置顶轮播图顺序，非负整数，数字越大越靠前
+swiper_index: 9 #置顶轮播图顺序，非负整数，数字越大越靠前
 ---
 
 ## Unity教程
